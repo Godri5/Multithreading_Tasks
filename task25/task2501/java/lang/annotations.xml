@@ -1,0 +1,8 @@
+<root>
+    <item name='java.lang.Enum int ordinal()'>
+        <annotation name='org.jetbrains.annotations.Range'>
+            <val name="from" val="1"/>
+            <val name="to" val="27"/>
+        </annotation>
+    </item>
+</root>
